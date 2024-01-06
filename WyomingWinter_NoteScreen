@@ -1,2 +1,5 @@
-[06/01/24 - 18:37GMT]
-<color=red>We are aware of an issue where users cannot create lobbies or get kicked from lobbies they join due to the server thinking they are AFK. This is caused by a mismatch between the server's time zone and your computer's. Working on a hot fix now.</color>
+[06/01/24 - 22:40GMT]
+The issue preventing lobbies from being created or joined has been fixed, ensure you update your game.
+
+Cheers,
+ValleyHound
