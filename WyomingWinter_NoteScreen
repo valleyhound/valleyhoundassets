@@ -1,5 +1,2 @@
-[03/01/24 - 23:26GMT]
-1.12 is here!
-
-Enjoy the new content and please report any bugs to the bugs forum on Steam,
-Cheers, ValleyHound!
+[06/01/24 - 18:37GMT]
+<color=red>We are aware of an issue where users cannot create lobbies or get kicked from lobbies they join due to the server thinking they are AFK. This is caused by a mismatch between the server's time zone and your computer's. Working on a hot fix now.</color>
